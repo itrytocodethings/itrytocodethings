@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Wayne!</h1>
-<h3 align="center">🤘 I'm a Full Stack Developer and lover of all things tech. 💻🚀 I'm currently seeking a junior developer role where I can apply my skills in JavaScript, React, and Python, as well as my excellent problem solving skills and desire to continuously learn new and more advanced technologies.</h3>
+<h3 align="center">🤘 I'm a Full Stack Developer and lover of all things tech. 💻🚀 </h3>
 
-- 🌱 I’m currently learning/working on projects to expand my knowledge of **Javascript, Python, ReactJS, SQL**
+- 🌱 I’m currently learning/working on projects to expand my knowledge of **Javascript/Typescript, Python, ReactJS, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itrytocodethings](https://github.com/itrytocodethings)
 
